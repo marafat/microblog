@@ -2,6 +2,7 @@ Exercising the [Mega-flask Tutorial](https://blog.miguelgrinberg.com/post/the-fl
 
 ## Table of Contents:
  * [Chapter 1](##chapter-1): scaffold and run bare bone app.
+ * Chapter 2: covers flask html templates rendering and inheritance. [original post](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates)
 
 ## Chapter 1:
 This chapter starts from scratch making sure that python 3.4 or higher is installed on the machine.
